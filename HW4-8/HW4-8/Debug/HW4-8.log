@@ -1,0 +1,6 @@
+﻿  Main.c
+c:\program111360251\hw4\hw4-8\main.c(11): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  c:\program111360251\hw4\hw4-8\main.c(11): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\program111360251\hw4\hw4-8\main.c(11): note: 缺少 variadic 引數 2 (其為格式字串 '%s' 所需)
+  c:\program111360251\hw4\hw4-8\main.c(11): note: 此引數可用為緩衝區大小
+  HW4-8.vcxproj -> C:\program111360251\HW4\HW4-8\Debug\HW4-8.exe
